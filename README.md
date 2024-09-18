@@ -1,0 +1,1 @@
+dependencies: moviepy, gtts, praw
